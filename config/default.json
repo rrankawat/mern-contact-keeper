@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://rrankawat:pas$w0rd@contact-keeper.z8iph.mongodb.net/contact-keeper?retryWrites=true&w=majority",
+  "jwtSecret": "$ecret"
+}
